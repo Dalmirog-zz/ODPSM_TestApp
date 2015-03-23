@@ -4,3 +4,6 @@ c:\users\john\documents\visual studio 2013\Projects\ODPSM_TestApp\ODPSM_TestApp\
 c:\users\john\documents\visual studio 2013\Projects\ODPSM_TestApp\ODPSM_TestApp\obj\Debug\ODPSM_TestApp.csprojResolveAssemblyReference.cache
 c:\users\john\documents\visual studio 2013\Projects\ODPSM_TestApp\ODPSM_TestApp\obj\Debug\ODPSM_TestApp.exe
 c:\users\john\documents\visual studio 2013\Projects\ODPSM_TestApp\ODPSM_TestApp\obj\Debug\ODPSM_TestApp.pdb
+C:\GitHub\ODPSM_TestApp\ODPSM_TestApp\bin\Debug\ODPSM_TestApp.exe.config
+C:\GitHub\ODPSM_TestApp\ODPSM_TestApp\obj\Debug\ODPSM_TestApp.exe
+C:\GitHub\ODPSM_TestApp\ODPSM_TestApp\obj\Debug\ODPSM_TestApp.pdb
